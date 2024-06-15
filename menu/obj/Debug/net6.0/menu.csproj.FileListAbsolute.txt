@@ -1,0 +1,15 @@
+c:\Users\19176\OneDrive\Documents\Programming\C#\menu\bin\Debug\net6.0\menu.exe
+c:\Users\19176\OneDrive\Documents\Programming\C#\menu\bin\Debug\net6.0\menu.deps.json
+c:\Users\19176\OneDrive\Documents\Programming\C#\menu\bin\Debug\net6.0\menu.runtimeconfig.json
+c:\Users\19176\OneDrive\Documents\Programming\C#\menu\bin\Debug\net6.0\menu.dll
+c:\Users\19176\OneDrive\Documents\Programming\C#\menu\bin\Debug\net6.0\menu.pdb
+c:\Users\19176\OneDrive\Documents\Programming\C#\menu\obj\Debug\net6.0\menu.csproj.AssemblyReference.cache
+c:\Users\19176\OneDrive\Documents\Programming\C#\menu\obj\Debug\net6.0\menu.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\19176\OneDrive\Documents\Programming\C#\menu\obj\Debug\net6.0\menu.AssemblyInfoInputs.cache
+c:\Users\19176\OneDrive\Documents\Programming\C#\menu\obj\Debug\net6.0\menu.AssemblyInfo.cs
+c:\Users\19176\OneDrive\Documents\Programming\C#\menu\obj\Debug\net6.0\menu.csproj.CoreCompileInputs.cache
+c:\Users\19176\OneDrive\Documents\Programming\C#\menu\obj\Debug\net6.0\menu.dll
+c:\Users\19176\OneDrive\Documents\Programming\C#\menu\obj\Debug\net6.0\refint\menu.dll
+c:\Users\19176\OneDrive\Documents\Programming\C#\menu\obj\Debug\net6.0\menu.pdb
+c:\Users\19176\OneDrive\Documents\Programming\C#\menu\obj\Debug\net6.0\menu.genruntimeconfig.cache
+c:\Users\19176\OneDrive\Documents\Programming\C#\menu\obj\Debug\net6.0\ref\menu.dll
