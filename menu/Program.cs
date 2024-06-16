@@ -83,9 +83,6 @@ class Program{
                 CurrSelectedIndex -= 1;
                 break;
         }
-        // if(ReadKey().Key == ConsoleKey.Enter && currSelectedIndex == 2) Environment.Exit(0);
-        // else if(ReadKey().Key == ConsoleKey.DownArrow) CurrSelectedIndex += 1;
-        // else if (ReadKey().Key == ConsoleKey.UpArrow) CurrSelectedIndex -= 1;
     }
 
     public static int CurrSelectedIndex{
