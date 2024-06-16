@@ -1,11 +1,11 @@
 # simpleMenu
 First simple menu system
 
-_Enter_ to select the highlighted option
+> _Enter_ to select the highlighted option
 
-_Up Arrow_ to move up
+> _Up Arrow_ to move up
 
-_Down Arrow_ to move down
+> _Down Arrow_ to move down
 
 
 #### Future Note
